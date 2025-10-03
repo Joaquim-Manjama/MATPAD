@@ -1,1 +1,1 @@
-A Math note taking app.
+A Math note taking app. https://matpadtool.netlify.app/
